@@ -1,9 +1,9 @@
 ### Hi there, I'm Anna 👋
 <h1>hgggh</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaStimp&layout=compact&theme=panda&hide=scss,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaStimp&layout=compact&theme=omni&hide=scss,css)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaStimp&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaStimp&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AnnaStimp/AnnaStimp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
