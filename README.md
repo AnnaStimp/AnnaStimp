@@ -10,6 +10,7 @@
         <a href="https://vuejs.org/index.html"><img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" alt="VueJs"></a>
         <a href="https://www.python.org/community/logos/"><img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python"></a>
   <a href="https://www.postgresql.org/"><img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="PostgreeSQL"></a>
+  <img width="30px" height="30px" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="HTML">
     </div>
 
 <h3 margin="10px 0 5px 0">⚡ Github Stats:</h3>
