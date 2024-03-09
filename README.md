@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&duration=4000&color=DA69AC&vCenter=true&width=1000&height=50&lines=%F0%9F%94%AD+I'm+a+Junior+Data+Analyst!)](https://git.io/typing-svg)
 
+<h3 margin="0 0 5px 0">My portfolio:</h3>
+
+[✨Click me!✨](https://github.com/AnnaStimp/MyProjects_YandexPracticum)
+
 <h3 margin="0 0 5px 0">Connect with me:</h3>
 <p>Telegram: @AnnaStimp</p>
 
