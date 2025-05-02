@@ -1,6 +1,6 @@
 <h3>Hi there, I’m Anna 👋</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&duration=4000&color=DA69AC&vCenter=true&width=1000&height=50&lines=%F0%9F%94%AD+I'm+a+Junior+Data+Analyst!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&duration=4000&color=DA69AC&vCenter=true&width=1000&height=50&lines=%F0%9F%94%AD+I'm+a+Data+Analyst!)](https://git.io/typing-svg)
 
 <h3 margin="0 0 5px 0">My bio:</h3>
 I am a data analyst with a deep understanding of development processes and strong programming skills. I mainly work with the Python programming language and its libraries (pandas, matplotlib, dash and others). I know SQL and can design databases.
